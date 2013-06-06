@@ -21,4 +21,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+    <properties>
+        <netbeans.hint.license>mit</netbeans.hint.license>
+    </properties>
 </project>
